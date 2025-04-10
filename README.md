@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @theyagub
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-theyagub/theyagub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi there, I'm Yaqub!
+🎯 I'm a passionate **.NET Developer** specialized in C#
+💻 I love building efficient and scalable backend applications
+🛠️ Technologies I work with:
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 C# / .NET
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 ASP.NET Core
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Entity Framework
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 MS SQL Server
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 Git & GitHub
